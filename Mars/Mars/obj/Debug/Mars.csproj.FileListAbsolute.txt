@@ -1,1 +1,4 @@
 D:\Project\Mars\Mars\bin\Debug\Mars.exe.config
+D:\Project\Mars\Mars\obj\Debug\Mars.csprojResolveAssemblyReference.cache
+D:\Project\Mars\Mars\obj\Debug\Mars.Properties.Resources.resources
+D:\Project\Mars\Mars\obj\Debug\Mars.csproj.GenerateResource.Cache

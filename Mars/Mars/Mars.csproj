@@ -45,12 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\ActiveModifier.cs" />
-    <Compile Include="Classes\Build.cs" />
-    <Compile Include="Classes\Building.cs" />
-    <Compile Include="Classes\BuildLevel.cs" />
-    <Compile Include="Classes\MyModifier.cs" />
-    <Compile Include="Classes\Upgrade.cs" />
+    <Compile Include="City\DiplomacyTrade.cs" />
+    <Compile Include="City\OtherCity.cs" />
+    <Compile Include="City\Player.cs" />
+    <Compile Include="MUB_classes\ActiveModifier.cs" />
+    <Compile Include="MUB_classes\Bonus.cs" />
+    <Compile Include="Builds\Build.cs" />
+    <Compile Include="Builds\Building.cs" />
+    <Compile Include="Builds\BuildLevel.cs" />
+    <Compile Include="MUB_classes\MyModifier.cs" />
+    <Compile Include="MUB_classes\Upgrade.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
